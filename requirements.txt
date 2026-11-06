@@ -1,0 +1,2 @@
+# Runtime: smooth anti-aliased graphics (the app also runs without it)
+pillow>=10.0
